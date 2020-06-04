@@ -3,3 +3,4 @@ const leapYear = (year) => {
 };
 
 console.log(leapYear(4));
+console.log(leapYear(2001));
